@@ -1,5 +1,5 @@
 # SpiderBaiduBaike
-Craw terms from BaiduBaike including url, title and summary
+爬取百度百科指定词条页面的相关内容
 
 ## 环境
 Python 3.6
