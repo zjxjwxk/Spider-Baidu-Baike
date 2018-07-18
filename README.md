@@ -1,5 +1,5 @@
 # SpiderBaiduBaike
-爬取百度百科指定词条页面的相关内容
+Python爬取百度百科指定词条页面的相关内容
 
 ### 环境
 Python 3.6
